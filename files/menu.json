@@ -1,0 +1,8 @@
+{
+  "status/overview": {
+    "title": "Overview",
+    "view": "vuci-app-overview",
+    "files": ["/etc/config/overview"],
+    "index": 10
+  }
+}
