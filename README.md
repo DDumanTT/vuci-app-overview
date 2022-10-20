@@ -1,2 +1,5 @@
-![alt text](./cards.png)
-![alt text](./cards_selection.png)
+![Cards](./cards.png)
+
+![Cards selection screen](./cards_selection.png)
+
+![Video of cards](cards.mp4)
